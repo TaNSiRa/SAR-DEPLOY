@@ -38999,7 +38999,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/ItemPerStaftCount_searchItemPerStaftData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemPerStaftCount_searchItemPerStaftData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAH,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemPerStaftCount_searchItemPerStaftData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAH,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -39062,7 +39062,7 @@ var $async$bVZ=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemPerStaftCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bVZ)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemPerStaftCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bVZ)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -39432,7 +39432,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/KPIItemCount_searchKPIData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/KPIItemCount_searchKPIData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAO,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/KPIItemCount_searchKPIData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAO,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -39495,7 +39495,7 @@ var $async$bW5=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/KPIItemCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW5)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/KPIItemCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW5)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -39559,7 +39559,7 @@ A.t("in getDataCreateExcel")
 A.aS("loading...")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/KPIItemCount_getDataCreateExcel",0,null),c,null).a1(0,A.ap(0,0,120)),$async$bSu)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/KPIItemCount_getDataCreateExcel",0,null),c,null).a1(0,A.ap(0,0,120)),$async$bSu)
 case 7:n=a0
 if(n.b===200){d=$.q()
 d.n()
@@ -39937,7 +39937,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/SampleSolutionCount_searchSolutionData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/SampleSolutionCount_searchSolutionData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAN,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/SampleSolutionCount_searchSolutionData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAN,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -39999,7 +39999,7 @@ var $async$bW4=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/SampleSolutionCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW4)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/SampleSolutionCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW4)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -40117,7 +40117,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/TestPieceCount_searchTestPieceData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/TestPieceCount_searchTestPieceData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAM,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/TestPieceCount_searchTestPieceData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAM,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -40179,7 +40179,7 @@ var $async$bW3=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/TestPieceCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW3)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/TestPieceCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW3)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -40382,7 +40382,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/RequestCount_searchTestPieceData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/RequestCount_searchRequestData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAL,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/RequestCount_searchRequestData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAL,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -40444,7 +40444,7 @@ var $async$bW2=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/RequestCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW2)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/RequestCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW2)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -40607,7 +40607,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/ItemRecheckCount_searchKPIData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemRecheckCount_searchItemRecheckData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAK,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemRecheckCount_searchItemRecheckData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAK,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -40667,7 +40667,7 @@ var $async$bW1=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemRecheckCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW1)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemRecheckCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW1)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -40815,7 +40815,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/ItemMistakeCount_searchItemMistakeData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemMistakeCount_searchItemMistakeData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAJ,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemMistakeCount_searchItemMistakeData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAJ,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -40878,7 +40878,7 @@ var $async$bW0=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemMistakeCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW0)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemMistakeCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW0)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -40990,7 +40990,7 @@ A.aS("loading...")
 A.t("in /SummaryDataPage/WorkingDateCount_searchWorkingDateCountData")
 p=4
 s=7
-return A.f(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/WorkingDateCount_searchWorkingDateCountData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAI,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/WorkingDateCount_searchWorkingDateCountData",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aAI,r)
 case 7:m=b
 s=m.b===200?8:9
 break
@@ -41050,7 +41050,7 @@ var $async$bW_=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:A.t("in searchMasterOption")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/WorkingDateCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW_)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/WorkingDateCount_searchMasterOption",0,null),null,null).a1(0,A.ap(0,0,120)),$async$bW_)
 case 7:n=b
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -41175,7 +41175,7 @@ case 3:A.t("IN searchPatternData")
 m=t.N
 l=A.K(["custFull",$.cdX],m,m)
 s=4
-return A.f(A.az(A.as("http://127.0.0.1:3002/EditPatternLabPage_searchPatternData",0,null),l,null).a1(0,A.ap(0,0,120)),$async$O0,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/EditPatternLabPage_searchPatternData",0,null),l,null).a1(0,A.ap(0,0,120)),$async$O0,r)
 case 4:k=b
 s=k.b===200?5:7
 break
@@ -41672,7 +41672,7 @@ h=A.K(["fileName",j,"image",c],i,i)
 $.bRa=""
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/Widget_uploadCrystalSizeHondaPicture",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aB1)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/Widget_uploadCrystalSizeHondaPicture",0,null),h,null).a1(0,A.ap(0,0,120)),$async$aB1)
 case 7:n=e
 if(n.b===200){i=n
 i=A.S(A.R(i.e).c.a.h(0,"charset")).A(0,i.w)!=="error"}else i=!1
@@ -41693,7 +41693,7 @@ break
 case 4:p=3
 g=o
 m=A.B(g)
-$.bRa="\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d http://127.0.0.1:3002 \u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 : "+A.w(m)
+$.bRa="\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d http://172.23.10.51:3002 \u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 : "+A.w(m)
 A.t("uploadCrystalSizeHondaPicture : "+A.w(m))
 q=""
 s=1
@@ -41716,7 +41716,7 @@ break}f=h+100
 o=B.d.cX(j,h,Math.min(f,g))
 q=6
 s=9
-return A.Y(A.az(A.as("http://127.0.0.1:3002/Widget_checkCrystalSizeHondaPicture",0,null),A.K(["files",J.aBD(o,",")],k,k),null).a1(0,new A.cD(12e7)),$async$azT)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/Widget_checkCrystalSizeHondaPicture",0,null),A.K(["files",J.aBD(o,",")],k,k),null).a1(0,new A.cD(12e7)),$async$azT)
 case 9:n=c
 if(n.b===200){g=n
 m=B.u.j_(0,A.S(A.R(g.e).c.a.h(0,"charset")).A(0,g.w),null)
@@ -41862,7 +41862,7 @@ j=A.K(["user",$.bc,"saveReason",A.ho($.ahL)],k,k)
 A.t("in sentReportToCustomer")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/MainPage_SaveKPIReason",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVL)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/MainPage_SaveKPIReason",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVL)
 case 6:o=b
 if(o.b===200)A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"SAVE REASON COMPLETE","Success",B.H,null,150)
 else A.J()
@@ -41891,7 +41891,7 @@ j=A.K(["user",$.bc,"DeleteKPIreason",A.ho($.bYn)],k,k)
 A.t("in deleteKPIreason")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/MainPage_DeleteStageReason",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bRi)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/MainPage_DeleteStageReason",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bRi)
 case 6:o=b
 if(o.b===200)A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"DELETE STAGE & REASON COMPLETE","Success",B.H,null,150)
 else A.J()
@@ -42923,7 +42923,7 @@ j=A.K(["ReqNo",a],k,k)
 A.aS("loading...")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_LoadReportOVS",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bTc)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_LoadReportOVS",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bTc)
 case 6:o=c
 k=$.q()
 k.n()
@@ -43737,7 +43737,7 @@ j=A.K(["user",$.bc,"apprvoeReportData",A.ho($.bQs)],k,k)
 A.t("in saveApproveReport")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/RoutineRequestDetailRequesterPage_saveApproveReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVG)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/RoutineRequestDetailRequesterPage_saveApproveReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVG)
 case 6:o=b
 if(o.b===200){A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"APPROVE REPORT COMPLETE","Success",B.H,null,150)
 J.N(A.W($.kG.t(),!1,t._),B.bn)}else A.J()
@@ -43766,7 +43766,7 @@ j=A.K(["user",$.bc,"sentReportData",A.ho($.AF)],k,k)
 A.t("in sentReportToCustomer")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/RoutineRequestDetailRequesterPage_sentReportToCustomer",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aif)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/RoutineRequestDetailRequesterPage_sentReportToCustomer",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aif)
 case 6:o=b
 if(o.b===200){A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"SENT REPORT COMPLETE","Success",B.H,null,150)
 J.N(A.W($.kG.t(),!1,t._),B.bn)}else A.J()
@@ -43795,7 +43795,7 @@ j=A.K(["user",$.bc,"rejectReportData",A.ho($.bVy)],k,k)
 A.t("in saveRejectReport")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/RoutineRequestDetailRequesterPage_saveRejectReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVM)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/RoutineRequestDetailRequesterPage_saveRejectReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bVM)
 case 6:o=b
 if(o.b===200){A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"REJECT REPORT COMPLETE","Success",B.H,null,150)
 J.N(A.W($.kG.t(),!1,t._),B.bn)}else A.J()
@@ -43853,7 +43853,7 @@ j=A.K(["user",$.bc,"cancelReportData",A.ho($.NI)],k,k)
 A.t("in cancelReportData")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/RoutineRequestDetailRequesterPage_cancelsentReportToCustomer",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aAZ)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/RoutineRequestDetailRequesterPage_cancelsentReportToCustomer",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aAZ)
 case 6:o=b
 if(o.b===200){A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"CANCEL SENT REPORT COMPLETE","Success",B.H,null,150)
 J.N(A.W($.kG.t(),!1,t._),B.bn)}else A.J()
@@ -43941,7 +43941,7 @@ A.t(">>"+a)
 A.t(">>"+$.aAS)
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_LoadReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bTb)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_LoadReport",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bTb)
 case 6:o=c
 if(o.b===200){k=$.q()
 k.n()
@@ -44038,7 +44038,7 @@ while(true)switch(s){case 0:k=t.N
 j=A.K(["reqNo",a],k,k)
 A.t("in searchHistoryApproveReport")
 s=3
-return A.Y(A.az(A.as("http://127.0.0.1:3002/RoutineRequestDetailRequesterPage_searchHistoryApproveReport",0,null),j,null),$async$bVR)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/RoutineRequestDetailRequesterPage_searchHistoryApproveReport",0,null),j,null),$async$bVR)
 case 3:m=c
 if(m.b===200){B.d.M($.d3)
 p=A.c89(A.S(A.R(m.e).c.a.h(0,"charset")).A(0,m.w))
@@ -44102,7 +44102,7 @@ s=p}while(true)switch(s){case 0:A.t("IN ApproverForEditSendReport")
 m=t.N
 l=A.K(["branch",J.c($.bU[0].d)],m,m)
 s=3
-return A.f(A.az(A.as("http://127.0.0.1:3002/ApproverForEditSendReport",0,null),l,null).a1(0,A.ap(0,0,120)),$async$a7t,r)
+return A.f(A.az(A.as("http://172.23.10.51:3002/ApproverForEditSendReport",0,null),l,null).a1(0,A.ap(0,0,120)),$async$a7t,r)
 case 3:k=b
 s=k.b===200?4:6
 break
@@ -44125,7 +44125,7 @@ j=A.K(["ReqNo",J.c($.bU[0].b),"ReportDate",A.kl("yyyy-MM-dd HH:mm:ss",null).il(a
 A.t("in EditSentReportDate")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/EditSentReportDate",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aI7)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/EditSentReportDate",0,null),j,null).a1(0,A.ap(0,0,120)),$async$aI7)
 case 6:o=c
 if(o.b===200){A.y(!0,"Cancel",B.k,"Ok",$.G.t(),!1,null,null,!1,"EDIT DATE COMPLETE","Success",B.H,null,150)
 J.N(A.W($.kG.t(),!1,t._),B.bn)}else A.J()
@@ -62328,7 +62328,7 @@ A.aS("loading...")
 A.t("in fetchItemAnalysisDueGrpah")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/ItemAnalysisDue_fetchItemAnalysisDueGrpah",0,null),n,null).a1(0,A.ap(0,0,120)),$async$bSf)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/ItemAnalysisDue_fetchItemAnalysisDueGrpah",0,null),n,null).a1(0,A.ap(0,0,120)),$async$bSf)
 case 7:m=c
 f=$.q()
 f.n()
@@ -62387,7 +62387,7 @@ A.aS("loading...")
 A.t("in fetchNoOfItemGraph")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/SummaryDataPage/NoOfItem_fetchNoOfItemGraph",0,null),n,null).a1(0,A.ap(0,0,120)),$async$bSh)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/SummaryDataPage/NoOfItem_fetchNoOfItemGraph",0,null),n,null).a1(0,A.ap(0,0,120)),$async$bSh)
 case 7:m=c
 i=$.q()
 i.n()
@@ -62478,7 +62478,7 @@ j=A.K(["Custfull",a],k,k)
 A.t("in getHistoryDataExcel "+a)
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/Widget_HistoryDataExcel",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bSA)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/Widget_HistoryDataExcel",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bSA)
 case 7:n=c
 if(n.b===200){k=n
 k=A.S(A.R(k.e).c.a.h(0,"charset")).A(0,k.w)
@@ -62512,7 +62512,7 @@ j=A.K(["path",a],k,k)
 A.t("in searchPicture "+a)
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/Widget_getPicture",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bSF)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/Widget_getPicture",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bSF)
 case 7:n=c
 if(n.b===200){k=n
 $.c3r=A.S(A.R(k.e).c.a.h(0,"charset")).A(0,k.w)
@@ -62643,7 +62643,7 @@ b9=A.K(["reqNo",c1],b8,b8)
 A.t("in searchKACReportData")
 p=4
 s=7
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_searchKACReportData",0,null),b9,null).a1(0,A.ap(0,0,120)),$async$bVW)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_searchKACReportData",0,null),b9,null).a1(0,A.ap(0,0,120)),$async$bVW)
 case 7:n=c4
 if(n.b===200){b8=n
 b8=A.c89(A.S(A.R(b8.e).c.a.h(0,"charset")).A(0,b8.w))
@@ -62769,7 +62769,7 @@ A.t("in createKACReportOVS")
 A.aS("loading...")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_createKACReportOVS",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bR4)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_createKACReportOVS",0,null),j,null).a1(0,A.ap(0,0,120)),$async$bR4)
 case 6:o=b
 k=$.q()
 k.n()
@@ -62820,7 +62820,7 @@ A.t("in createKACReport")
 A.aS("loading...")
 p=7
 s=10
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_createKACReport",0,null),n,null).a1(0,A.ap(0,0,120)),$async$azv)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_createKACReport",0,null),n,null).a1(0,A.ap(0,0,120)),$async$azv)
 case 10:m=b
 if(m.b===200){J.N(A.W($.kG.t(),!1,t._),B.bn)
 j=$.q()
@@ -62864,7 +62864,7 @@ A.t("in reviseKACReport")
 A.aS("loading...")
 q=3
 s=6
-return A.Y(A.az(A.as("http://127.0.0.1:3002/KACReportData_reviseKACReport",0,null),o,null).a1(0,A.ap(0,0,120)),$async$bVB)
+return A.Y(A.az(A.as("http://172.23.10.51:3002/KACReportData_reviseKACReport",0,null),o,null).a1(0,A.ap(0,0,120)),$async$bVB)
 case 6:n=b
 if(n.b===200){k=n
 A.t(A.S(A.R(k.e).c.a.h(0,"charset")).A(0,k.w))
@@ -182592,7 +182592,7 @@ s=q}while(true)switch(s){case 0:n.E(new A.bh0(n))
 q=3
 i=t.N
 s=6
-return A.Y(A.ko(null).Lm("http://127.0.0.1:3002/Export_Excel",A.K(["customer",n.e.a,"startDate",A.kl("yyyy-MM-dd",null).il(n.f),"endDate",A.kl("yyyy-MM-dd",null).il(n.r),"userName",$.bc],i,i),A.U2(B.oT,new A.bh1()),t.z),$async$Ka)
+return A.Y(A.ko(null).Lm("http://172.23.10.51:3002/Export_Excel",A.K(["customer",n.e.a,"startDate",A.kl("yyyy-MM-dd",null).il(n.f),"endDate",A.kl("yyyy-MM-dd",null).il(n.r),"userName",$.bc],i,i),A.U2(B.oT,new A.bh1()),t.z),$async$Ka)
 case 6:m=b
 if(m.c===200){l=A.a82([m.a],null)
 i=(self.URL||self.webkitURL).createObjectURL(l)
